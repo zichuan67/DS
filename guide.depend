@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1749690769 source:c:\users\23708\desktop\校园导航\guide\algorithm.cpp
+	"Algorithm.h"
+	"LGraph.h"
+	<queue>
+	<stack>
+	<iterator>
+	<algorithm>
+	<sstream>
+	<vector>
+	<set>
+	<limits>
+
+1749656419 c:\users\23708\desktop\校园导航\guide\algorithm.h
+	"LGraph.h"
+	<queue>
+	<stack>
+	<iterator>
+	<algorithm>
+
+1749432539 c:\users\23708\desktop\校园导航\guide\lgraph.h
+	<map>
+	<set>
+	<list>
+	<vector>
+	<string>
+	<iostream>
+	<functional>
+	"LocationInfo.h"
+	"GraphException.h"
+
+1730270941 c:\users\23708\desktop\校园导航\guide\locationinfo.h
+	<string>
+	<iostream>
+
+1749801046 source:c:\users\23708\desktop\校园导航\guide\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<cassert>
+	"LGraph.h"
+	"Algorithm.h"
+	"LocationInfo.h"
+	"GraphException.h"
+
+1730270963 c:\users\23708\desktop\校园导航\guide\graphexception.h
+	<exception>
+	<string>
+
+1749432539 source:c:\users\23708\desktop\校园导航\guide\lgraph.cpp
+	"LGraph.h"
+
